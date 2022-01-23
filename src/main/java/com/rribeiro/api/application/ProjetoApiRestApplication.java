@@ -1,4 +1,4 @@
-package com.rribeiro.api;
+package com.rribeiro.api.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
